@@ -13,7 +13,7 @@ The 'final_tidy_data' table was created by using the following data set:
 > www.smartlab.ws 
  
  
-More informations about the original data set can be found
+More informations about the original data set can be found from
 [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
  
  
