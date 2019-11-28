@@ -210,21 +210,19 @@ The first 2 variables 'subject' and 'activity' can uniquely identify each row of
 In order to produce the tidy dataset, the script 'run_analysis.R' performs the following tasks:
 
 ### Merges the training and the test sets to create one data set with target variables.  
-- 1. Binds these files,
-
-UCI HAR Dataset/train/subject_train.txt
-UCI HAR Dataset/train/X_train.txt
-UCI HAR Dataset/train/y_train.txt.
+1. Binds these files:  
+- UCI HAR Dataset/train/subject_train.txt  
+- UCI HAR Dataset/train/X_train.txt  
+- UCI HAR Dataset/train/y_train.txt  
 from the train set by columns to a table that contains, the human subject, the activity performed and the values of the features.
 
-- 2. Binds these files,
-
-UCI HAR Dataset/test/subject_test.txt
-UCI HAR Dataset/test/X_test.txt
-UCI HAR Dataset/test/y_test.txt.
+2. Binds these files:  
+- UCI HAR Dataset/test/subject_test.txt  
+- UCI HAR Dataset/test/X_test.txt  
+- UCI HAR Dataset/test/y_test.txt  
 from the test set by columns to a table that contains, the human subject, the activity performed and the values of the features.
 
-- 3. Binds the data frames created for test and train set into one large dataset by rows.
+3. Binds the data frames created for test and train set into one large dataset by rows.
 
 ### Extracts only the measurements on the mean and standard deviation for each measurement.
 Finds the target features, which are the features with measurements about mean and standard deviation, and extracts them as well as those that indicate the 'subject' and 'activity' and creates a new data table only with the target variables.
