@@ -156,7 +156,7 @@ The code "run_analysis.R" creates a tidy data set that has 180 observations of 8
    frequencyBodyGyroscopeMeanFreqZ                    
    frequencyBodyAccelerometerMagnitudeMean            
    frequencyBodyAccelerometerMagnitudeMeanFreq        
-   frequencyBodyBodyAccelerometerJerkMagnitudeMean    
+   frequencyBodyBodyAccelerometerJerkMagnitudeMean                    
    frequencyBodyBodyAccelerometerJerkMagnitudeMeanFreq
    frequencyBodyBodyGyroscopeMagnitudeMean            
    frequencyBodyBodyGyroscopeMagnitudeMeanFreq        
