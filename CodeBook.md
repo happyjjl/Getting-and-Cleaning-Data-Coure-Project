@@ -111,7 +111,97 @@ tBodyGyroJerkMean
 
 ## 2 Tidy dataset   
 
+The code "run_analysis.R" creates a tidy data set that has 180 observations of 88 variables. The dataset was saved to file "final_tidy_data.txt"
 
+### 88 variables
+   subject                                         
+   activity        
+   timeBodyAccelerometerMeanX                         
+   timeBodyAccelerometerMeanY                         
+   timeBodyAccelerometerMeanZ                         
+   timeGravityAccelerometerMeanX                      
+   timeGravityAccelerometerMeanY                      
+   timeGravityAccelerometerMeanZ                      
+   timeBodyAccelerometerJerkMeanX                     
+   timeBodyAccelerometerJerkMeanY                     
+   timeBodyAccelerometerJerkMeanZ                     
+   timeBodyGyroscopeMeanX                             
+   timeBodyGyroscopeMeanY                             
+   timeBodyGyroscopeMeanZ                             
+   timeBodyGyroscopeJerkMeanX                         
+   timeBodyGyroscopeJerkMeanY                         
+   timeBodyGyroscopeJerkMeanZ                         
+   timeBodyAccelerometerMagnitudeMean                 
+   timeGravityAccelerometerMagnitudeMean              
+   timeBodyAccelerometerJerkMagnitudeMean             
+   timeBodyGyroscopeMagnitudeMean                     
+   timeBodyGyroscopeJerkMagnitudeMean                 
+   frequencyBodyAccelerometerMeanX                    
+   frequencyBodyAccelerometerMeanY                    
+   frequencyBodyAccelerometerMeanZ                    
+   frequencyBodyAccelerometerMeanFreqX                
+   frequencyBodyAccelerometerMeanFreqY                
+   frequencyBodyAccelerometerMeanFreqZ                
+   frequencyBodyAccelerometerJerkMeanX                
+   frequencyBodyAccelerometerJerkMeanY                
+   frequencyBodyAccelerometerJerkMeanZ                
+   frequencyBodyAccelerometerJerkMeanFreqX            
+   frequencyBodyAccelerometerJerkMeanFreqY            
+   frequencyBodyAccelerometerJerkMeanFreqZ            
+   frequencyBodyGyroscopeMeanX                        
+   frequencyBodyGyroscopeMeanY                        
+   frequencyBodyGyroscopeMeanZ                        
+   frequencyBodyGyroscopeMeanFreqX                    
+   frequencyBodyGyroscopeMeanFreqY                    
+   frequencyBodyGyroscopeMeanFreqZ                    
+   frequencyBodyAccelerometerMagnitudeMean            
+   frequencyBodyAccelerometerMagnitudeMeanFreq        
+   frequencyBodyBodyAccelerometerJerkMagnitudeMean    
+   frequencyBodyBodyAccelerometerJerkMagnitudeMeanFreq
+   frequencyBodyBodyGyroscopeMagnitudeMean            
+   frequencyBodyBodyGyroscopeMagnitudeMeanFreq        
+   frequencyBodyBodyGyroscopeJerkMagnitudeMean        
+   frequencyBodyBodyGyroscopeJerkMagnitudeMeanFreq    
+   angletBodyAccelerometerMeangravity                 
+   angletBodyAccelerometerJerkMeangravityMean         
+   angletBodyGyroscopeMeangravityMean                 
+   angletBodyGyroscopeJerkMeangravityMean             
+   angleXgravityMean                                  
+   angleYgravityMean                                  
+   angleZgravityMean                                  
+   timeBodyAccelerometerStdX                          
+   timeBodyAccelerometerStdY                          
+   timeBodyAccelerometerStdZ                          
+   timeGravityAccelerometerStdX                       
+   timeGravityAccelerometerStdY                       
+   timeGravityAccelerometerStdZ                       
+   timeBodyAccelerometerJerkStdX                      
+   timeBodyAccelerometerJerkStdY                      
+   timeBodyAccelerometerJerkStdZ                      
+   timeBodyGyroscopeStdX                              
+   timeBodyGyroscopeStdY                              
+   timeBodyGyroscopeStdZ                              
+   timeBodyGyroscopeJerkStdX                          
+   timeBodyGyroscopeJerkStdY                          
+   timeBodyGyroscopeJerkStdZ                          
+   timeBodyAccelerometerMagnitudeStd                  
+   timeGravityAccelerometerMagnitudeStd               
+   timeBodyAccelerometerJerkMagnitudeStd              
+   timeBodyGyroscopeMagnitudeStd                      
+   timeBodyGyroscopeJerkMagnitudeStd                  
+   frequencyBodyAccelerometerStdX                     
+   frequencyBodyAccelerometerStdY                     
+   frequencyBodyAccelerometerStdZ                     
+   frequencyBodyAccelerometerJerkStdX                 
+   frequencyBodyAccelerometerJerkStdY                 
+   frequencyBodyAccelerometerJerkStdZ                 
+   frequencyBodyGyroscopeStdX                         
+   frequencyBodyGyroscopeStdY                         
+   frequencyBodyGyroscopeStdZ                         
+   frequencyBodyAccelerometerMagnitudeStd             
+   frequencyBodyBodyAccelerometerJerkMagnitudeStd     
+   frequencyBodyBodyGyroscopeMagnitudeStd             
+   frequencyBodyBodyGyroscopeJerkMagnitudeStd    
 
 ## 3 Analysis process  
 
