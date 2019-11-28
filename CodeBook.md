@@ -245,8 +245,8 @@ rename variables with descriptive names:
 - mean --> Mean  
 - std --> Std  
 
-### From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject   
-Group the tidy data table created in step 4, by 'subject' and 'activity'.
+### Creates a second, independent tidy data set with the average of each variable for each activity and each subject   
+Group the tidy data table by 'subject' and 'activity'.
 
 Summarize each variable to find the average for the grouped values.
 
