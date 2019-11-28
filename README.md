@@ -36,5 +36,5 @@ The R package `dplyr` is required to run this script.
 
 To install the `dplyr` package,run the following command in R Console or RStudio:  
 
-    `install.packages("dplyr")`  
+    install.packages("dplyr")  
 
