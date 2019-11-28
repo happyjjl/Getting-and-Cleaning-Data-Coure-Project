@@ -1,7 +1,7 @@
 
-### About the original dataset 
+## About the original dataset 
  
-The 'tidy_data_summary' table was created by using the following data set: 
+The 'final_tidy_data' table was created by using the following data set: 
  
 > Human Activity Recognition Using Smartphones Dataset Version 1.0 
 >  
@@ -14,14 +14,13 @@ The 'tidy_data_summary' table was created by using the following data set:
  
  
 More informations about the original data set can be found
-[here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+[UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
  
  
 *** 
-### License  
+## License  
 
-The following is a copy-paste from the 'README.txt' of the original data set
-which I encourage everybody to use.
+The following is a copy-paste from the 'README.txt' of the original data set  
 
 > Use of this dataset in publications must be acknowledged by referencing the
 following publication [1] 
