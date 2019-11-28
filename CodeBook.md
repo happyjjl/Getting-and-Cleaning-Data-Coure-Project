@@ -1,5 +1,5 @@
 # Code Book for Getting and Cleaning Data Course Project
-## Original dataset 
+## 1 Original dataset 
 ### About 
 
 The original dataset was downloaded [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
@@ -13,7 +13,7 @@ The raw data was collected by experiments:
 More informations about the original data set can be found from
 [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
-### raw data files  
+### Raw data files  
 
 The dataset includes the following files:
 
@@ -109,16 +109,16 @@ tBodyAccJerkMean
 tBodyGyroMean
 tBodyGyroJerkMean
 
-## Tidy dataset   
+## 2 Tidy dataset   
 
 
 
-## Analysis process  
+## 3 Analysis process  
 
 
 
 *** 
-## References & License  
+## 4 References & License  
 
 The following is a copy-paste from the 'README.txt' of the original data set  
 
