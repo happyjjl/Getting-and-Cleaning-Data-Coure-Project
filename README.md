@@ -25,4 +25,4 @@ Course 3: Getting And Cleaning Data, from Data Science Specialization, by Johns 
 --------------------------
 The R package dplyr is required to run this script.  
 To install the dplyr package,input the following command in R Console:  
-  install.packages("dplyr")  
+  `install.packages("dplyr")`  
