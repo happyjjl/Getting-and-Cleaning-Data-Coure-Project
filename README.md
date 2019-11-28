@@ -16,7 +16,7 @@ Course 3: Getting And Cleaning Data, from Data Science Specialization, by Johns 
 
 * run_analysis.R        - R script to clean-up the experiment data,more details in CodeBook.md  
 
-## How to run the script
+## How to run the R script
 
 1. Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
