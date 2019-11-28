@@ -26,6 +26,8 @@ Course 3: Getting And Cleaning Data, from Data Science Specialization, by Johns 
 
 4. Run the script in R Console or Rstudio 
 
+    `source("run_analysis.R")`
+
 5. The script will create a final_tidy_data.txt in your R working directory  
 
 ## Dependency
