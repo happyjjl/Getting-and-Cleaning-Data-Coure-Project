@@ -1,5 +1,5 @@
-
-## About the original dataset 
+# Code Book for Getting and Cleaning Data Course Project
+## original dataset 
  
 The 'final_tidy_data' table was created by using the following data set: 
  
@@ -16,7 +16,14 @@ The 'final_tidy_data' table was created by using the following data set:
 More informations about the original data set can be found from
 [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
  
- 
+## tidy dataset   
+
+
+
+## Analysis process  
+
+
+
 *** 
 ## References & License  
 
